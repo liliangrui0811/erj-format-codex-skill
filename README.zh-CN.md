@@ -6,7 +6,7 @@
 
 因《经济研究》官网没有直接给出官方 Word 模板。因此，本 skill 采用以下材料作为格式依据：
 
--《经济研究》官网提供的格式样张，已整理为 `references/user-provided-format-spec.md`。
+- 《经济研究》官网提供的格式样张，已整理为 `references/user-provided-format-spec.md`。
 - 公开可检索的历史投稿说明和保守格式规则，整理在 `references/erj-format-rules.md`。
 - GitHub 上的 `Chinese-ERJ` LaTeX 模板，对照说明见 `references/latex-template-comparison.md`。
 
