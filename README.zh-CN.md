@@ -1,14 +1,12 @@
 # 《经济研究》格式化 Codex Skill
 
-仓库名建议：`erj-format-codex-skill`
-
-用于将 Word / DOCX 论文整理为《经济研究》投稿格式，并生成格式审查提示。
+本skill用于将 Word / DOCX 论文整理为《经济研究》投稿格式，并生成格式审查提示。
 
 ## 重要说明
 
-我没有稳定找到《经济研究》当前最新版官方 Word 模板。因此，本 skill 采用以下材料作为格式依据：
+因《经济研究》官网没有直接给出官方 Word 模板。因此，本 skill 采用以下材料作为格式依据：
 
-- 用户提供的《经济研究》格式样张，已整理为 `references/user-provided-format-spec.md`。
+-《经济研究》官网提供的格式样张，已整理为 `references/user-provided-format-spec.md`。
 - 公开可检索的历史投稿说明和保守格式规则，整理在 `references/erj-format-rules.md`。
 - GitHub 上的 `Chinese-ERJ` LaTeX 模板，对照说明见 `references/latex-template-comparison.md`。
 
